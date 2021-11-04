@@ -8,9 +8,9 @@
 <br/>
 <br/>
 
-![GitHub release](https://img.shields.io/github/release/brovkin/webpack-frontend-template.svg)
-![GitHub stars](https://img.shields.io/github/stars/brovkin/webpack-frontend-template.svg?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/brovkin/webpack-frontend-template.svg?style=social)
+![GitHub release](https://img.shields.io/github/release/CommanderCoolDev/webpack-frontend-template.svg)
+![GitHub stars](https://img.shields.io/github/stars/CommanderCoolDev/webpack-frontend-template.svg?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/CommanderCoolDev/webpack-frontend-template.svg?style=social)
 
 ## Особенности сборки
 
